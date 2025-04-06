@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240319772207",
+    "project_id": "blogger-app-e3dea",
+    "storage_bucket": "blogger-app-e3dea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240319772207:android:17e83fe4dd6498831738da",
+        "android_client_info": {
+          "package_name": "com.example.bloggerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0p6GCULMBzdf7oTJGLQFKOTkpiDu-mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
